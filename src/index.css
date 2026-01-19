@@ -6,3 +6,7 @@
   background-color: var(--main-color) !important;
   color: #fff !important;
 }
+
+section {
+  scroll-margin-top: 56px;
+}
