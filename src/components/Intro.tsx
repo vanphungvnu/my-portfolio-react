@@ -28,6 +28,19 @@ export default function Intro() {
           <a href="#projects" className="btn btn-main btn-lg">
             View Projects
           </a>
+          <a
+            href="/VanTriPhung_Resume.pdf"
+            className="btn btn-outline-main btn-lg"
+            download
+          >
+            Download Resume
+          </a>
+          <a
+            href="mailto:vantriphungvnu@gmail.com"
+            className="btn btn-outline-main btn-lg"
+          >
+            Contact Me
+          </a>
         </div>
       </div>
     </section>
