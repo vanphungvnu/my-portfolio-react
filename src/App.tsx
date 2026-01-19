@@ -4,6 +4,7 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
+import ScrollToTopButton from "./components/ScrollToTopButton";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <Skills />
       <Projects />
       <Footer />
+      <ScrollToTopButton />
     </>
   );
 }
