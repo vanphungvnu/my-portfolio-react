@@ -10,3 +10,25 @@
 section {
   scroll-margin-top: 56px;
 }
+
+.btn-main {
+  background-color: var(--main-color) !important;
+  color: #fff !important;
+  border: none;
+}
+
+.btn-main:hover {
+  opacity: 0.9;
+  color: #fff !important;
+}
+
+.btn-outline-main {
+  background-color: transparent !important;
+  color: var(--main-color) !important;
+  border: 2px solid var(--main-color) !important;
+}
+
+.btn-outline-main:hover {
+  background-color: var(--main-color) !important;
+  color: #fff !important;
+}
