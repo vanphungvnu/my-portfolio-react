@@ -32,7 +32,7 @@ const projectsData: Project[] = [
     description:
       "Responsive personal portfolio to showcase projects and technical expertise. Built with React.js and Bootstrap 5, deployed on AWS CloudFront with a custom domain, and includes download links for resume and contact options.",
     github: "https://github.com/vanphungvnu/my-portfolio-react.git",
-    live: "https://vantriphung.dev",
+    live: "https://www.vantriphung.dev",
   },
 ];
 
